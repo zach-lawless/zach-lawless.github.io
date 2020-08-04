@@ -20,10 +20,10 @@ title                    : "Zach Lawless"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Zach Lawless"
-description              : "An amazing website."
+description              : "Zach Lawless's Personal Webpage"
 url                      : "https://zach-lawless.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "zach-lawless/zach-lawless.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -95,16 +95,16 @@ analytics:
 author:
   name             : "Zach Lawless"
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI/ML Engineer in industry, Master of Science candidate at Columbia University"
+  bio              : "AI/ML Engineer, M.S Candidate @ Columbia University"
   location         : "Fort Worth, TX"
-  email            :
+  email            : "ztlawless@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:ztlawless@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://zach-lawless.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -112,8 +112,11 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/zach-lawless"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/zach-lawless/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -121,6 +124,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      # url: "https://github.com/zach-lawless"
+    - label: "LinkedIn"
+      icon: ""
+      # url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
